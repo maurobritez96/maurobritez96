@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Mauro Britez</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 Soy estudiante de analista en sistemas y en mis tiempos libres me encuentro aprendiendo **Nest & Angular**
+- 🌱 Soy estudiante de analista en sistemas y en mis tiempos libres me encuentro aprendiendo **Java & Angular**
 
 - 📫 Mis medios de contacto son <br/>
       &nbsp;LinkedIn <a href="https://linkedin.com/in/maurobritez">linkedin.com/in/maurobritez</a> <br/>
